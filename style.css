@@ -1,0 +1,58 @@
+body{
+    background:#c6e9fc;
+}
+
+.box_top{
+    background: blue;
+    bottom: 0%;
+    right:0%;
+    height:10vh;
+    width:98vw;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding-bottom:2vh;
+}
+
+.name_up{
+        font-size:8vh;
+        padding-left:1vh;
+}
+
+.menssage{
+    background: white;
+    padding-bottom:5vh;
+    width:98vw;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:2vh;
+}
+
+.menssage_text{
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
+
+.menssage_info{
+    height:1vh;
+    width:10vh;
+}
+
+.image{
+    margin-top:-2vh;
+    margin-left:-18vh;
+    width:5vh;
+}
+
+.name_adm{
+    margin-left:20vh;
+}
+
+.menssage_font{
+    padding-left: 3vh;
+    font-size:5vh;
+}
+
+.time{
+    
+}
