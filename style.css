@@ -56,3 +56,9 @@ body{
 .time{
     
 }
+
+@media(max-width: 574px) {
+    .menssage{
+        width:150vw;
+    }
+    }
