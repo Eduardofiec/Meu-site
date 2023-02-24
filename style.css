@@ -22,7 +22,7 @@ body{
 .menssage{
     background: white;
     padding-bottom:5vh;
-    width:98vw;
+    width:98vh;
     margin-left: auto;
     margin-right: auto;
     font-size:2vh;
@@ -56,9 +56,14 @@ body{
 .time{
     
 }
-
-@media(max-width: 574px) {
+/*
+ @media(max-width: 574px) {
     .menssage{
         width:150vw;
     }
+    .box_top{
+        width:180vw;
     }
+    }
+  */
+  
