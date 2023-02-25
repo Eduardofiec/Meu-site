@@ -1,5 +1,6 @@
 body{
     background:#c6e9fc;
+    
 }
 
 .box_top{
@@ -64,9 +65,8 @@ body{
     .box_top{
         width:170vw;
     }
-    .name_up{
-        width:170vw;
+    body{
+        transform: scale(0.57);
+    transform-origin: 0 0; 
     }
     }
- 
-  
