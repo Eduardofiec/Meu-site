@@ -1,14 +1,14 @@
 body{
-    background:#c6e9fc;
+    background:#d1d1d1;
     
 }
 
 .box_top{
-    background: blue;
+    background: white;
     bottom: 0%;
     right:0%;
     height:10vh;
-    width:98vw;
+    width:100vw;
     margin-left: auto;
     margin-right: auto;
     
@@ -18,15 +18,24 @@ body{
 .name_up{
         font-size:8vh;
         padding-left:1vh;
+        color: blue;
+}
+
+.name_bottom{
+    font-size:1.5vh;
+    margin-top: -0.5vh;
+        padding-left:0vh;
+        color: blue;
 }
 
 .menssage{
     background: white;
-    padding-bottom:5vh;
-    width:98vw;
+    padding-bottom:2vh;
+    width:100vw;
     margin-left: auto;
     margin-right: auto;
     font-size:2vh;
+    margin-top: 1vh;
 }
 
 .menssage_text{
@@ -35,18 +44,19 @@ body{
 }
 
 .menssage_info{
-    height:1vh;
+    height:10vh;
     width:10vh;
 }
 
 .image{
-    margin-top:-2vh;
-    margin-left:-18vh;
+    /*margin-top:-2vh;
+    margin-left:-18vh;*/
     width:5vh;
+    margin-left: 1vw;
 }
 
 .name_adm{
-    margin-left:20vh;
+    margin-bottom: 5vh;
 }
 
 .menssage_font{
@@ -54,9 +64,6 @@ body{
     font-size:5vh;
 }
 
-.time{
-    
-}
 
  @media(max-width: 574px) {
     .menssage{
@@ -69,4 +76,13 @@ body{
         transform: scale(0.57);
     transform-origin: 0 0; 
     }
+    }
+
+    .inline{
+        display:inline;
+        
+    }
+    .hora{
+transform: translateY(1vh)translateX(-6.5vw);
+width: 10vw;
     }
