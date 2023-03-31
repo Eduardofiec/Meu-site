@@ -83,6 +83,6 @@ body{
         
     }
     .hora{
-transform: translateY(1vh)translateX(-11.5vw);
-width: 20vw;
+transform: translateY(1vh)translateX(-6.5vw);
+width: 150px;
     }
